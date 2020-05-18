@@ -14,7 +14,7 @@
 | :-------- | :---------------- | :------------------ | :-------------- |
 | TeleHlam  | ✔  Yes            | ✔  Yes             | ✔  Yes          |
 | Telegram  | ✔  Yes            | ✔  Yes             | ❌ No           |
-| Whatsup   | ❌ No             | ❌ No              | ❌ No           |
+| WhatsApp   | ❌ No             | ❌ No              | ❌ No           |
 | Messanger | ❌ No             | ❌ No              | ❌ No           |
 
 
